@@ -228,36 +228,36 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "plugins",
 	"supergroup",
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {152485254,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[ARASH 1.1
+ARASH BOT
 
-https://github.com/SEEDTEAM/TeleSeed
+ARASH
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+@A_HELLOWORLD
+A
+R
+A
+S
+H
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+ARASH
+SEED TEAM
+__________________
+ARASH BOT
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+B
+O
+T
 
-Our website 
-http://teleseed.seedteam.org/
+
 ]],
     help_text_realm = [[
 Realm Commands:
